@@ -48,7 +48,7 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
             <div class="stepContent">
             <p class="note">If your device is older than the K5 (Kindle Touch), you only need to copy the <code>KUAL-KDK-1.0.azw2</code> file to your Kindle's <code>documents</code> folder, you can skip the next steps</p>
             <p class="important">If you downloaded KUAL for <strong>legacy devices</strong>, extract the .tar.xz to get the <code>Update_KUALBooklet_*_install.bin</code> file</p>
-            <p>Copy the <code>Update_KUALBooklet_*_install.bin</code> file to your Kindle's <code>mrpackages</code> folder</p>
+            <p>Copy the <code>Update_KUALBooklet_HDRepack.bin</code> file (if you chose KUAL Coplate for Kindles newer than the K5) or the <code>Update_KUALBooklet_*_install.bin</code> file (for legacy devices) to your Kindle's <code>mrpackages</code> folder</p>
                 <br/>
                 <img src="./kual_install_bin.png" />
             </div>
