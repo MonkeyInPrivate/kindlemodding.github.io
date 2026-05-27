@@ -34,13 +34,8 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
                         <td><a href="./Update_KUALBooklet_HDRepack.bin">Update_KUALBooklet_HDRepack.bin</a></td>
                     </tr>
                     <tr>
-                        <td>K4</td>
-                        <td>Download, place in documents folder and move onto <a href="../disable-ota.html">Disabling OTA Updates</a></td>
-                        <td><a href="./KUAL-KDK-2.0.azw2">KUAL-KDK-2.0.azw2</a></td>
-                    </tr>
-                    <tr>
-                        <td>K3 and older</td>
-                        <td>Download, place in documents folder and move onto <a href="../disable-ota.html">Disabling OTA Updates</a></td>
+                        <td>K4 and older</td>
+                        <td>Download, place in documents folder and move onto <a href="../koreader.html">Installing KOReader</a></td>
                         <td><a href="./KUAL-KDK-1.0.azw2">KUAL-KDK-1.0.azw2</a></td>
                     </tr>
                     <tr>
