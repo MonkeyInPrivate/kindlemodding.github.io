@@ -31,9 +31,10 @@ example_package
 ├── install.sh
 ├── launch.sh
 ├── manifest.json
+├── startup.sh
 └── uninstall.sh
 
-1 directory, 4 files
+1 directory, 5 files
 ```
 
 | File Name    | Purpose                                                 |
@@ -41,6 +42,7 @@ example_package
 | install.sh   | Ran during package installation after it is unpacked    |
 | uninstall.sh | Ran during package uninstallation after it is unmounted |
 | launch.sh    | Ran when package is launched from a launcher            |
+| startup.sh    | Ran when the Kindle boots and `hdnext` is initialised |
 
 <p class="warning">Hooks <b>MUST NOT</b> write to rootfs or remount it as rw, see below for more details</p>
 
@@ -72,5 +74,7 @@ In this case, the file at `/opt/amazon/ebook/lib/json_simple-1.1.jar` would be o
 
 ### Notes on rootfs and hooks
 Rootfs overlay operations always happen **BEFORE** the install and uninstall hooks, that is to say when `install.sh` runs, the file is already overlaid, and when `uninstall.sh` runs, the file is already removed.
+
+The majority of packages will **NOT** need to use rootfs overlays, be certain that there is no other way to do what you are trying to before you do it.
 
 <p class="warning">Do not use package rootfs for paths under <code>/var</code> or <code>/mnt</code></p>
