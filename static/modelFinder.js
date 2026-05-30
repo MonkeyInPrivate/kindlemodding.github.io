@@ -128,7 +128,7 @@ function searchForSerial() {
             searchStatus.innerText = "ERROR: Serial Number Too Short!";
         else
             searchStatus.innerHTML = "ERROR: Serial Number Not Found! Please Open a <a style=\"color: red;\" href=\"https://github.com/KindleModding/kindlemodding.github.io\">GitHub Issue.</a>";
-        gtag('event', 'unknown_serial', serialInfo);
+        //gtag('event', 'unknown_serial', serialInfo);
     }
 }
 
