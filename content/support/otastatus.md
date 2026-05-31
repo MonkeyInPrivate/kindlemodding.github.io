@@ -1,0 +1,31 @@
+---
+layout: default
+parent: Other Guides
+title: Checking OTA Status
+weight: 2
+---
+
+# Checking OTA Status
+<p class="tip">
+Also available on <a href="./kforge">KindleForge</a>!</p>
+
+OTA Blocking is one of the most important steps when it comes to jailbreaking, and you may want to make sure that you did it right. 
+
+## Traditional Method
+1. Download the [Check OTA Status Script](https://github.com/neura-neura/Check-OTA-status/releases/latest/download/Check.OTA.status_current.sh) by neura
+2. Place the file in your documents folder
+3. It should show up in your home screen, click to run it.
+4. Check the output. Note that the comment about Airplane Mode means that you should turn on Airplane Mode to enable OTA's, enabling Airplane Mode on its own will **not** reenable OTA's.
+
+## [BinaryRenamer](https://www.mobileread.com/forums/showthread.php?p=4380046) Script
+<p class="important">This is a separate OTA blocking app.</p>
+
+1. Open KUAL
+2. Open the BinaryRenamer menu.
+3. If the OTA button says "Restore OTA Updates" then OTA's are blocked.
+
+## Credits
+- [neura](https://github.com/neura-neura) - Made the [OTA Status Checker](https://github.com/neura-neura/Check-OTA-status) Script
+- [Julia](https://github.com/juliazero) - Wrote [BinaryRenamer](https://www.mobileread.com/forums/showthread.php?p=4380046)
+- [Penguins184](https://github.com/penguins184) - Help With Formatting
+- [MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Wrote this Page
