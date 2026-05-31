@@ -17,22 +17,43 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
     </div>
     <div id="stepwrapper" class="stepwrapper">
         <div class="step">
+            <h2>Download the correct KUAL version</h2>
+            <div class="stepContent">
+                <table>
+                <thead>
+                    <tr>
+                        <th>Device Generation</th>
+                        <th>Instructions</th>
+                        <th>KUAL Download</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>K5 and newer</td>
+                        <td>Download and continue to next steps</td>
+                        <td><a href="./Update_KUALBooklet_HDRepack.bin">Update_KUALBooklet_HDRepack.bin</a></td>
+                    </tr>
+                    <tr>
+                        <td>K4 and older</td>
+                        <td>Download, place in documents folder and move onto <a href="../koreader.html">Installing KOReader</a></td>
+                        <td><a href="./KUAL-KDK-1.0.azw2">KUAL-KDK-1.0.azw2</a></td>
+                    </tr>
+                    <tr>
+                        <td>If none of the above methods work</td>
+                        <td>Follow the instructions on the repository and then move onto <a href="../disable-ota.html">Disabling OTA Updates</a></td>
+                        <td><a href="https://github.com/KindleTweaks/PEKI">https://github.com/KindleTweaks/PEKI</a></td>
+                    </tr>
+                </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="step">
             <h2>Download MRPI</h2>
             <div class="stepContent">
                 <a class="button" href="./kual-mrinstaller-khf.zip">MRPI (for modern devices)</a>
                 <p>This version of MRPI is provided by <a href="https://fw.notmarek.com/khf/">Marek</a></p>
                 <a class="button" href="./kual-mrinstaller-1.7.N-r19303.zip">MRPI (for legacy devices - pre-K5)</a>
                 <p class="important">You may need to free up 150 MB of space to install both MRPI and KUAL <a href="#troubleshooting">without issues</a></p>
-            </div>
-        </div>
-        <div class="step">
-            <h2>Download the correct KUAL version</h2>
-            <div class="stepContent">
-                <a class="button" href="./Update_KUALBooklet_HDRepack.bin">KUAL (Coplate) - For Kindles newer than the K5 (any kindle released after 2012)</a>
-                <p>The above version of KUAL is provided by <a href="https://hackerdude.tech">Hackerdude</a></p>
-                <br/>
-                <a class="button" href="./KUAL-v2.7.37-gfcb45b5-20250419.zip">KUAL - For legacy devices</a>
-                <a class="button" href="https://github.com/KindleTweaks/PEKI" style="margin-top: 10px;">PEKI - Follow this guide instead if Coplate is broken</a>
             </div>
         </div>
         <div class="step">
@@ -49,7 +70,7 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
             <p class="note">If your device is older than the K5 (Kindle Touch), you only need to copy the <code>KUAL-KDK-1.0.azw2</code> file to your Kindle's <code>documents</code> folder, you can skip the next steps</p>
             <p class="note">If your device is the K3 (Kindle Keyboard) or older, you should instead use the <code>KUAL-KDK-1.0.azw</code> file and copy it to your Kindle's <code>documents</code> folder, you can skip the remaining steps</p>
             <p class="important">If you downloaded KUAL for <strong>legacy devices</strong>, extract the .tar.xz to get the <code>Update_KUALBooklet_*_install.bin</code> file</p>
-            <p>Copy the <code>Update_KUALBooklet_*_install.bin</code> file to your Kindle's <code>mrpackages</code> folder</p>
+            <p>Copy the <code>Update_KUALBooklet_HDRepack.bin</code> file (if you chose KUAL Coplate for Kindles newer than the K5) or the <code>Update_KUALBooklet_*_install.bin</code> file (for legacy devices) to your Kindle's <code>mrpackages</code> folder</p>
                 <br/>
                 <img src="./kual_install_bin.png" />
             </div>
