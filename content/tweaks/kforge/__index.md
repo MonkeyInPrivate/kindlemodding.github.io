@@ -11,9 +11,9 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
 
 <div id="guide">
     <div class="buttons">
-        <button class="prev-btn">Previous Step</button>
-        <span class="step-counter"></span>
-        <button class="next-btn">Next Step</button>
+        <button id="prev">Previous Step</button>
+        <span id="stepCounter"></span>
+        <button id="next">Next Step</button>
     </div>
     <div id="stepwrapper" class="stepwrapper">
         <div class="step">
@@ -33,8 +33,8 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
         </div>
     </div>
     <div class="buttons">
-        <button class="prev-btn">Previous Step</button>
-        <span class="step-counter"></span>
-        <button class="next-btn">Next Step</button>
+        <button id="prev">Previous Step</button>
+        <span id="stepCounter"></span>
+        <button id="next">Next Step</button>
     </div>
 </div>
