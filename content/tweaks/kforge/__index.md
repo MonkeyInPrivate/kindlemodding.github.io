@@ -32,4 +32,9 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
             </div>
         </div>
     </div>
+    <div class="buttons">
+        <button id="prev">Previous Step</button>
+        <span id="stepCounter"></span>
+        <button id="next">Next Step</button>
+    </div>
 </div>
