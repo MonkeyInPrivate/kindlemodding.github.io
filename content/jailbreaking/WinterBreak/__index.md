@@ -106,7 +106,9 @@ It is based on [Mesquito](../../mesquito/)
             <h2>Done</h2>
             <div class="stepContent">
                 <p>Wait around 30 seconds, and your Kindle will say something along the lines of "Now you are ready to install the hotfix"</p>
-                <p>If no funky text appears, retry the guide again. Once it does, <b>turn Airplane mode back on</b> and continue to the post-jailbreak stage
+                <p>If no funky text appears, retry the guide again.</p>
+                <p class="warning">
+                    Once it does, <b>turn Airplane mode back on</b> before continuing to the post-jailbreak stage, to prevent an automatic update.
                 </p>
                 <p class="warning">
                     If present, delete the <code>update.bin.tmp.partial</code> file from your device to prevent an automatic update

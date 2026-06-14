@@ -111,6 +111,7 @@ It is based on [CVE-2012-3748](https://scarybeastsecurity.blogspot.com/2017/05/o
                 <p class="note">
                     You can safely ignore any "application error" popups, they are irrelevant.
                 </p>
+                <p class="warning"><b>Ensure Airplane mode is still enabled</b> (turn it back on if it's off) before continuing to the post-jailbreak stage, to prevent an automatic update.</p>
                 <img src="./demo.png" />
             </div>
         </div>

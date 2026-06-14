@@ -53,7 +53,8 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
                 <a class="button" href="./kual-mrinstaller-khf.zip">MRPI (for modern devices)</a>
                 <p>This version of MRPI is provided by <a href="https://fw.notmarek.com/khf/">Marek</a></p>
                 <a class="button" href="./kual-mrinstaller-1.7.N-r19303.zip">MRPI (for legacy devices - pre-K5)</a>
-                <p class="important">You may need to free up 150 MB of space to install both MRPI and KUAL <a href="#troubleshooting">without issues</a></p>
+                <p class="important">You may need to free up 220 MB of space to install both MRPI and KUAL <a href="#troubleshooting">without issues</a></p>
+                <p class="warning"><b>Make sure Airplane mode is on before freeing up this space.</b> If it isn't, your Kindle may use the freed space to download and install an OTA update.</p>
             </div>
         </div>
         <div class="step">

@@ -79,6 +79,16 @@ Nosebleed is a jailbreak released on 02/03/2026 by hhhhhhhhh.
                 <img src="./jailbreak.png" />
             </div>
         </div>
+        <div class="step">
+            <h2>Done</h2>
+            <div class="stepContent">
+                <p>Once the jailbreak has completed, continue to the post-jailbreak stage.</p>
+                <p class="warning"><b>Turn Airplane mode on now</b> to prevent your Kindle from automatically updating before blocking OTA updates.</p>
+                <p class="warning">
+                    If present, delete the <code>update.bin.tmp.partial</code> file from your device to prevent an automatic update
+                </p>
+            </div>
+        </div>
     </div>
     <div class="buttons">
         <button id="prev">Previous Step</button>

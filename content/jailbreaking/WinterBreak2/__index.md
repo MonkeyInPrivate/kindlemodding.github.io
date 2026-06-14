@@ -96,7 +96,9 @@ Unlike WinterBreak, WinterBreak2 uses the Kindle's built-in Experimental Browser
         <div class="step">
             <h2>Done</h2>
             <div class="stepContent">
-                <p>Once the jailbreak has completed, <b>turn Airplane mode on</b> and continue to the post-jailbreak stage</p>
+                <p class="warning">
+                    Once the jailbreak has completed, <b>turn Airplane mode on</b> before continuing to the post-jailbreak stage, to prevent an automatic update.
+                </p>
                 <p class="warning">
                     If present, delete the <code>update.bin.tmp.partial</code> file from your device to prevent an automatic update
                 </p>
