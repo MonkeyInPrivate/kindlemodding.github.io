@@ -40,4 +40,4 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
     </div>
 </div>
 
-<script>new Guide("guide", "custom-screensavers", "Setting Up Custom Screensavers");</script>
+<script>new Guide("guide", "custom-screensavers", "Custom Screensavers");</script>
