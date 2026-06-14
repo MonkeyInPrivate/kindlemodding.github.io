@@ -9,6 +9,8 @@ slug: index
 # Installing KindleForge
 Yep, There's a appstore for your jailbroken Kindle, and it has everything from [KUAL](../../jailbreaking/post-jailbreak/installing-kual-mrpi), [KOReader](../koreader), an [OTA Checker](../../../support/otastatus), [Alpine Linux](../../../support/alpine), and more!
 
+<p class="caution">Hi there future MIP/anyone reading this! Photos/Screenshots will be added to this guide, so don't merge this before!</p>
+
 <div id="guide">
     <div class="buttons">
         <button id="prev">Previous Step</button>
