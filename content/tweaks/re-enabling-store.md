@@ -1,15 +1,14 @@
 ---
 layout: default
-parent: Post Jailbreak
+parent: Popular Apps & Tweaks
 title: Re-enabling the Store
-weight: 4
-slug: index
+weight: 1
 ---
 
 # Re-enabling the Store
 
 > [!WARNING]
-> Ensure you've [disabled OTA Updates](../disable-ota) before re-enabling the store.<br/><br/>This is <b>WinterBreak-Only</b>, and it does not apply to AdBreak.
+> Ensure you've [disabled OTA Updates](../jailbreaking/post-jailbreak/disable-ota) before re-enabling the store.<br/><br/>This is <b>WinterBreak-Only</b>.
 
 <div id="guide">
     <div class="buttons">
@@ -63,7 +62,7 @@ slug: index
     </div>
 </div>
 
-<script>new Guide("guide", "../koreader.html", "Install KOReader");</script>
+<script>new Guide("guide", "./koreader", "Installing KOReader");</script>
 
 ## Troubleshooting
 

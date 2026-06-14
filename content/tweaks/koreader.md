@@ -1,8 +1,8 @@
 ---
 layout: default
-parent: Post Jailbreak
+parent: Popular Apps & Tweaks
 title: Installing KOReader
-weight: 5
+weight: 2
 ---
 
 # Installing KOReader
@@ -114,7 +114,7 @@ _KOReader is a document viewer for E Ink devices. Supported formats include EPUB
     </div>
 </div>
 
-<script>new Guide("guide", "../jailbreak-faq.html", "Jailbreak FAQ");</script>
+<script>new Guide("guide", "./kforge", "Installing KindleForge");</script>
 
 ## Credits
 
