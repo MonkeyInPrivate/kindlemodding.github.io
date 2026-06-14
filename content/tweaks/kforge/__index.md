@@ -23,7 +23,8 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
                 <br/>
             </div>
         </div>
-        <div class="step">
+
+<div class="step">
             <h2>Extract the .zip file</h2>
             <div class="stepContent">
                 <p>Extract the contents of the archive you just download. You should end up with a <code>KindleForge</code> folder and a <code>KindleForge.sh</code> file.</p>
