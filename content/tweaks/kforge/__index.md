@@ -36,7 +36,7 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
 <div class="step">
             <h2>Copying the Files to Your Kindle</h2>
             <div class="stepContent">
-                <p>Copy the `KindleForge` folder and `KindleForge.sh` file into your Kindle's `documents` folder.</p>
+                <p>Copy the <code>KindleForge</code> folder and <code>KindleForge.sh</code> file into your Kindle's <code>documents</code> folder.</p>
                 <br/>
             </div>
         </div>
