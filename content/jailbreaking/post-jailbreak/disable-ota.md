@@ -129,7 +129,7 @@ Kindles automatically update when connected to Wi-Fi, which despite a `hotfix`, 
     </div>
 </div>
 
-<script>new Guide("guide", "re-enabling-the-store", "Re-enable Store");</script>
+<script>new Guide("guide", "../../tweaks/", "Apps & Tweaks");</script>
 
 ## Credits
 
