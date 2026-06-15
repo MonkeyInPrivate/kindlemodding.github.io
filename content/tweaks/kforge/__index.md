@@ -51,3 +51,20 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
 </div>
 
 <script>new Guide("guide", "custom-screensavers", "Custom Screensavers");</script>
+
+## Updating and Troubleshooting
+### Versions >= 4.0.9
+
+1. Open KindleForge.
+2. Click the 3 dots on top of your screen.
+3. Click "Update KForge".
+### Versions <= 4.0.8
+1. Delete the `KindleForge` folder.
+2. Delete the `KindleForge.sh` file.
+3. Re-do the install instructions.
+
+For any other issues, join the [KindleTweaks Discord Server](https://discord.gg/aSG3eMsAsW).
+
+# Credits
+- [MonkeyInPrivate](https://github.com/MonkeyInPrivate) - Wrote the Updating and Troubleshooting section
+- [KindleTweaks Organization](https://github.com/KindleTweaks) - Created KindleForge
