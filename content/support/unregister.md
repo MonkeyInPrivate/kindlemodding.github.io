@@ -33,5 +33,5 @@ By default, removing your Amazon account from your Kindle, known as "deregisteri
 4. Confirm that the path looks like `/var/local/DONT_DELETE_CONTENT_ON_DEREGISTRATION`.
 
 # Credits
-[MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Wrote this page
+[MonkeyInPrivate](https://github.com/MonkeyInPrivate) - Wrote this page
 [GreenCat777](https://github.com/GreenCat-777) - Wrote and hosted the Scriptlet
