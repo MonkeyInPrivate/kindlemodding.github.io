@@ -20,4 +20,4 @@ Also this shouldn't appear in AdBreak but you should see "Collecting Debug Info"
 
 ## Credits 
 - [Penguins184](https://github.com/penguins184) - Wrote the Page 
-- [GreenCat777](https://github.com/GreenCat-777) & [MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Polishing up the page
+- [GreenCat777](https://github.com/GreenCat-777) & [MonkeyInPrivate](https://github.com/MonkeyInPrivate) - Polishing up the page
