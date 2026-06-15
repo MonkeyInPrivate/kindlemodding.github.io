@@ -59,4 +59,4 @@ If it still doesn't show, your network is likely blocking it in some way.
 Make sure you copied the files and ran the replacement script correctly. If you did, your Kindle may not be supported.
 
 # Credits
-- [MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Wrote this Page
+- [MonkeyInPrivate](https://github.com/MonkeyInPrivate) - Wrote this Page
