@@ -55,5 +55,5 @@ You should now be able to follow the PC instructions.
 Hopefully this Debricked your Kindle! If you still need support, join the [Kindle Modding Community](https://discord.kindlemodding.org/) and open a ticket in the [#questions-and-support](https://discord.com/channels/1083603487025274911/1112755307521769583) channel.
 
 ## Credits 
-- [MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Wrote this Guide
+- [MonkeyInPrivate](https://github.com/MonkeyInPrivate) - Wrote this Guide
 - kindlemodshelfguy ([NemesisHubris](https://github.com/NemesisHubris)) - Originally showcased this guide on [KindleModShelf](https://kindlemodshelf.me)
