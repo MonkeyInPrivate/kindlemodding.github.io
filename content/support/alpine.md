@@ -36,6 +36,6 @@ Also available on <a href="./kforge">KindleForge</a>!</p>
 2. Enter and run this command: ```sh -c "$(curl -fsSL https://tinyurl.com/alpinek)"```
 
 ## Credits
-- [MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Wrote this Page 
+- [MonkeyInPrivate](https://github.com/MonkeyInPrivate) - Wrote this Page 
 - [schuhumi](https://github.com/schuhumi) - Wrote Alpine for Kindle and the KUAL Installer
 - [GreenCat777](https://github.com/GreenCat-777) - Wrote QuickAlpine(including the kterm link/script), and parts of this page
