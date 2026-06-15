@@ -27,6 +27,6 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
 For any other issues, join the [KindleTweaks Discord Server](https://discord.gg/aSG3eMsAsW).
 
 # Credits
-- [MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Wrote the Updating and Troubleshooting section
+- [MonkeyInPrivate](https://github.com/MonkeyInPrivate) - Wrote the Updating and Troubleshooting section
 - [GreenCat777](https://github.com/GreenCat-777) - Wrote the Installation Section
 - [KindleTweaks Organization](https://github.com/KindleTweaks) - Created KindleForge
