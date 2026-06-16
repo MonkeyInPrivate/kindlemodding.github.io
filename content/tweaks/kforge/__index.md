@@ -55,8 +55,8 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
 
 ## Updating
 <p class="tip">You can check your version number by scrolling to the bottom of the KindleTweaks app.</p>
-### Versions >= 4.0.9
 
+### Versions >= 4.0.9
 1. Open KindleForge.
 2. Click the 3 dots on top of your screen.
 3. Click "Update KForge".
