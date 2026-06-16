@@ -16,7 +16,8 @@ Below is a diagram generated from all the Kindle's (PW6) upstart services.
     }
 </style>
 
-<iframe style="width: 100%; height: 100vh;"><code class="language-mermaid">
+<iframe style="width: 100%; height: 100vh;">
+	<code class="language-mermaid">
 %%{init: {"flowchart": {"defaultRenderer": "elk"}} }%%
 flowchart TD
 	mdpd(mdpd)
@@ -392,4 +393,5 @@ framework_setup 	-->|framework_ready| kindlesyncservice
             }
         });
     })();
-</script></iframe>
+</script>
+</iframe>
