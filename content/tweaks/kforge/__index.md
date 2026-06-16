@@ -21,7 +21,7 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
         <div class="step">
             <h2>Download The Latest Release</h2>
             <div class="stepContent">
-                <p class="important">This download is provided by the <a href="https://github.com/KindleTweaks">KindleTweaks Organization</a></p>
+                <p class="important">This download is provided by the <a href="https://github.com/KindleTweaks">KindleTweaks Organization</a>.</p>
                 <a href="https://github.com/KindleTweaks/KindleForge/releases/latest/download/KindleForge.zip" class="button">Download</a>
                 <br/>
             </div>
