@@ -16,4 +16,4 @@ Below is a diagram generated from all the Kindle's (PW6) upstart services.
     }
 </style>
 
-<iframe style="width: 100%; height: 100vh;" src="./upstart-diagram.hml"></iframe>
+<iframe style="width: 100%; height: 100vh;" src="./upstart-diagram.html"></iframe>
