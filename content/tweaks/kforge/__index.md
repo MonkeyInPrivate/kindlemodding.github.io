@@ -74,3 +74,4 @@ For any other issues, join the [KindleTweaks Discord Server](https://discord.gg/
 - [Penguins184](https://github.com/penguins184) - Created KindleForge
 - [KindleForge Contributors](https://github.com/KindleTweaks/KindleForge#special-thanks) - Made KindleForge possible
 - [Gingrspacecadet](https://github.com/gingrspacecadet) - Package manager (KFPM), inspiration & repository help
+- [ThatPotatoDev](https://github.com/ThatPotatoDev) - ABI differentiation, dependencies, & tweak support
