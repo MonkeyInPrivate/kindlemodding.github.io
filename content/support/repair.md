@@ -56,4 +56,3 @@ Hopefully this Debricked your Kindle! If you still need support, join the [Kindl
 
 ## Credits 
 - [MonkeyInPrivate](https://github.com/MonkeyInPrivate) - Wrote this Guide
-- kindlemodshelfguy ([NemesisHubris](https://github.com/NemesisHubris)) - Originally showcased this guide on [KindleModShelf](https://kindlemodshelf.me)
