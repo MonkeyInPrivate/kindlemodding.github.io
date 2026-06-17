@@ -4,6 +4,7 @@ parent: Popular Apps & Tweaks
 title: Installing KindleForge
 weight: 3
 slug: index
+kofi: https://ko-fi.com/penguins186
 ---
 
 # Installing KindleForge
