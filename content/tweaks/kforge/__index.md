@@ -8,7 +8,7 @@ kofi: https://ko-fi.com/penguins186
 ---
 
 # Installing KindleForge
-Yep, There's a appstore for your jailbroken Kindle, and it has everything from [KUAL](../../jailbreaking/post-jailbreak/installing-kual-mrpi), [KOReader](../koreader), an [OTA Checker](../../../support/otastatus), [Alpine Linux](../../../support/alpine), and more!
+Yep, there's an appstore for your jailbroken Kindle, and it has everything from [KUAL](../../jailbreaking/post-jailbreak/installing-kual-mrpi), [KOReader](../koreader), an [OTA Checker](../../../support/otastatus), [Alpine Linux](../../../support/alpine), and more!
 
 <p class="important">If you encounter any issues while following this guide, you should join the <a href="https://discord.gg/aSG3eMsAsW">KindleTweaks Discord Server</a> for support.</p>
 
@@ -60,7 +60,7 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
 
 ### Versions >= 4.0.9
 1. Open KindleForge.
-2. Click the 3 dots on top of your screen.
+2. Click the 3 dots at the top of your screen.
 3. Click "Update KForge".
 ### Versions <= 4.0.8
 1. Delete the `KindleForge` folder.
