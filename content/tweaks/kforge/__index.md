@@ -11,7 +11,7 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
 
 <p class="caution">Hi there future MIP/anyone reading this! Photos/Screenshots will be added to this guide, so don't merge this before!</p>
 
-<p class="important">If you encounter any issues while following this guide, you should go to the <a href="https://discord.gg/aSG3eMsAsW">KindleTweaks Organization</a> for support.</p>
+<p class="important">If you encounter any issues while following this guide, you should join the <a href="https://discord.gg/aSG3eMsAsW">KindleTweaks Discord Server</a> for support.</p>
 
 <div id="guide">
     <div class="buttons">
