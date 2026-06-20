@@ -65,6 +65,10 @@ Hooks are always ran from the package's folder whilst the package is in an unpac
 It is encouraged to use the `install.sh` hook to place a scriptlet in the `/mnt/us/documents` folder when appropriate.  
 It is recommended that the scriptlet runs `/var/local/kmc/bin/kpm launch PACKAGENAME` to run the package's `launch.sh`
 
+### Guidelines
+- The `uninstall.sh` hook will be passed the parameter `upgrade` if this uninstallation is part of an upgrade, you can use this to determine whether configuration files should be deleted or not.
+- The `uninstall.sh` hook should NOT delete package files, this is handled by KPM
+ 
 ## Writing To Rootfs
 Using the `install.sh` hook to modify the contents of `rootfs` is unsupported. It is recommended that you do not do this for now.  
 A solution is planned to be implemented in the near future.
