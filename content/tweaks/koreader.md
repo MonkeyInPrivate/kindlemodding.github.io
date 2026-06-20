@@ -3,6 +3,7 @@ layout: default
 parent: Popular Apps & Tweaks
 title: Installing KOReader
 weight: 2
+kofi: https://liberapay.com/KOReader
 ---
 
 # Installing KOReader
