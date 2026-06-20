@@ -21,7 +21,23 @@ example_package
 1 directory, 1 file
 ```
 
-The manifest file will now be initialised to target the `kindleany` platform (see: [`targeting specific platforms`](./targeting-platforms.html))
+The manifest file will now be initialised to target the `kindleany` platform (see: [`targeting specific platforms`](#targeting-specific-platforms))
+
+## Packing
+To convert your package folder to a `kpkg` file that can be added to a repository and that KPM can install, use `kpm-helper.py`:
+```sh
+python kpm-helper.py package pack FOLDER_PATH OUTPUT_PATH
+```
+Where `FOLDER_PATH` is the path to your package and `OUTPUT_PATH` is the folder to put the `kpkg` file.
+
+### Targeting Specific Platforms
+There are many reasons you may want a package to only target a specific platform, `kpm-helper.py` can modify the manifest at pack time with the `--supported-platform` flag. You may also manually set the optional `supported_platforms` array in the `manifest.json` file.
+
+#### Valid Platforms
+- `kindle` - Kindles older than the K5
+- `kindle5` - K5 and newer
+- `kindlepw2` - PW2 and newer
+- `kindlehf` - armhf platforms
 
 ## Hooks
 You can now put any other files in the package folder, however they won't do anything by themselves, this is why we have hooks:
@@ -31,7 +47,6 @@ example_package
 ├── install.sh
 ├── launch.sh
 ├── manifest.json
-├── startup.sh
 └── uninstall.sh
 
 1 directory, 5 files
@@ -42,7 +57,6 @@ example_package
 | install.sh   | Ran during package installation after it is unpacked    |
 | uninstall.sh | Ran during package uninstallation after it is unmounted |
 | launch.sh    | Ran when package is launched from a launcher            |
-| startup.sh   | Ran when the Kindle boots and `hdnext` is initialised   |
 
 <p class="warning">Hooks <b>MUST NOT</b> write to rootfs or remount it as rw, see below for more details</p>
 
