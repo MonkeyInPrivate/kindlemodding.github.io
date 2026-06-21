@@ -21,4 +21,4 @@ Once you have code execution as `root`, a jailbreak simply performs the followin
 4. Create a file named `/MNTUS_EXEC` in `/` which makes the Kindle mount `/mnt/us` 
 5. Mount the root filesystem as `ro`
 
-This prepares the system for a [hotfix](./hotfix.html)
+This prepares the system for a [hotfix](./hotfix/)
