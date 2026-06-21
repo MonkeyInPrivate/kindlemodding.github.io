@@ -53,7 +53,7 @@ Yep, there's an appstore for your jailbroken Kindle, and it has everything from 
     </div>
 </div>
 
-<script>new Guide("guide", "custom-screensavers", "Custom Screensavers");</script>
+<script>new Guide("guide", "../custom-screensavers", "Custom Screensavers");</script>
 
 ## Updating
 <p class="tip">You can check your version number by scrolling to the bottom of the KindleTweaks app.</p>
