@@ -21,7 +21,7 @@ example_package
 1 directory, 1 file
 ```
 
-The manifest file will now be initialised to target the `kindleany` platform (see: [`targeting specific platforms`](#targeting-specific-platforms))
+The manifest file will now be initialised to target all platforms (see: [`targeting specific platforms`](#targeting-specific-platforms))
 
 ## Packing
 To convert your package folder to a `kpkg` file that can be added to a repository and that KPM can install, use `kpm-helper.py`:
@@ -66,7 +66,7 @@ It is encouraged to use the `install.sh` hook to place a scriptlet in the `/mnt/
 It is recommended that the scriptlet runs `/var/local/kmc/bin/kpm launch PACKAGENAME` to run the package's `launch.sh`
 
 ### Guidelines
-- The `uninstall.sh` hook will be passed the parameter `upgrade` if this uninstallation is part of an upgrade, you can use this to determine whether configuration files should be deleted or not.
+- During upgrades, the `install.sh` hook is ran directly without running `uninstall.sh` on the previous package.
 - The `uninstall.sh` hook should NOT delete package files, this is handled by KPM
  
 ## Writing To Rootfs
