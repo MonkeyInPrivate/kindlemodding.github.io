@@ -14,7 +14,7 @@ adfree: true
 > <br/>
 > \- Anne Bradstreet
 
-SpringBreak is a jailbreak released on 22/06/26 by Penguins184.
+SpringBreak is a jailbreak released on 22/06/26 by [Penguins184](https://ko-fi.com/penguins186).
 
 You can read the writeup [here](https://penguins184.xyz/blog/springbreak-jailbreak/).
 
@@ -128,14 +128,14 @@ You can read the writeup [here](https://penguins184.xyz/blog/springbreak-jailbre
         <div class="step">
             <h2>Jailbreak!</h2>
             <div class="stepContent">
-                <p>SpringBreak should load, give it time and soon funky text should appear, signifying jailbreak!</p>
+                <p>SpringBreak should load, give it time and soon funky text should appear, signifying a successful jailbreak!</p>
                 <img src="./jailbreak.png">
             </div>
         </div>
         <div class="step">
             <h2>Clean-up</h2>
             <div class="stepContent">
-                <p>Plug the Kindle back in once you're on the homepage and GUI has restarted. Run the binary, select the Kindle, and it will clean-up.</p>
+                <p>Plug the Kindle back in once you're on the homepage and the system UI has restarted. Run the binary, select the Kindle, and it will clean-up.</p>
                 <p class="caution">
                     If you don't do this, the Kindle will take upwards of <b>15 minutes</b> to boot.
                 </p>
@@ -156,3 +156,17 @@ You can read the writeup [here](https://penguins184.xyz/blog/springbreak-jailbre
     </div>
 </div>
 <script>new Guide("guide", "../post-jailbreak/installing-kual-mrpi", "Installing KUAL & MRPI");</script>
+
+## Troubleshooting
+
+1. Opening the store says 'Application Error'; Unplug and re-plug the Kindle once or a couple of times until it works.
+2. Don't see your Kindle? Ensure it is mounted if you are on Linux (Open it in a file explorer).
+3. Filling fails due to lack of space? Delete some filler files, re-run the script to delete the old partial fillers, and retry.
+
+## Credits
+
+- [Penguins184](https://ko-fi.com/penguins186) - Creator of this Jailbreak, Wiki Page
+- Hhhhhhhhh - Initial LPE, Core ideas
+- [Hackerdude](https://ko-fi.com/hackerdude) - Thought of using filler files so the Kindle Store could become a vector
+- [Scam.net](https://ko-fi.com/scamdotnet1) - Reminded me of numerous key details during my exploit discovery which pointed me in the correct direction.
+- Thanks to all beta-testers: EastLancsRaceway, redbullguzzler, ava
