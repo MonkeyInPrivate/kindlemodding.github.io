@@ -48,7 +48,7 @@ Yes, re-enable automatic updates first (`Restore` option in `renametobin`) to av
 
 ### Will the jailbreak get my Amazon account banned?
 
-No reports of Amazon accounts being banned after jailbreaking have been reported so far. However, **please refrain** from telling support that you have modified your device.
+Only a few reports of Amazon banning accounts for jailbreaking have surfaced, and even these were due to people making changes to their Amazon account to do so. In order to prevent this, **please refrain from telling support you have modified your device**, and use an alternate Amazon account if you are worried about getting banned.
 
 ### Will this void the warranty on my Kindle device?
 
