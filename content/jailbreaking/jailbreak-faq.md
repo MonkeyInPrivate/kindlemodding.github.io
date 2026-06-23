@@ -51,9 +51,12 @@ Yes, re-enable automatic updates first (`Restore` option in `renametobin`) to av
 No reports of Amazon accounts being banned after jailbreaking have been reported so far. However, **please refrain** from telling support that you have modified your device.
 
 ### Will this void the warranty on my Kindle device?
-Probably.
 
-### How do I get the Amazon store back again?
+<p class="tip">Amazon could always change their policies, and whenever you mod any device you always run the risk of bricking it with no warrenty.</p>
+
+Quite possibly (especially if you told Amazon that you modded your Kindle), but some users have reported being able to get their jailbroken Kindle replaced if it was bricked due to an Amazon issue.
+
+### How do I get the Amazon store back after running WinterBreak?
 
 [Read and follow this guide](https://kindlemodding.org/jailbreaking/post-jailbreak/re-enabling-the-store/).
 
@@ -81,8 +84,7 @@ Yes.
 No.
 
 <p class="warning">
-If your device has been in Airplane mode for a long period of time, there is a possibility that <a href="https://www.mobileread.com/forums/showpost.php?p=4419300&postcount=409">Amazon will delete all sideloaded books</a> from your device after reconnecting to Wi-Fi due to an internal book tag. This can happen regardless of whether your device is jailbroken or not. Backup your books whenever you can
-
+If your device has been in Airplane mode for a long period of time, there is a possibility that <a href="https://www.mobileread.com/forums/showpost.php?p=4419300&postcount=409">Amazon will delete all sideloaded books</a> from your device after reconnecting to Wi-Fi due to an internal book tag. This can happen regardless of whether your device is jailbroken or not. Backup your books whenever you can.
 </p>
 
 ### Will Libby/Readwise/GoodReads/Kindle Unlimited/Send To Kindle still work after jailbreaking?
@@ -99,7 +101,7 @@ Unless there's a extension/port for any of them, no.
 
 ### How do I read my Amazon ebooks within KOReader?
 
-KOReader currently doesn’t (and likely never will) support the proprietary formats that Amazon converts all ebooks into (KFX, AZW3, and very limited support for MOBI). It is recommended to get all your books as EPUB and store them in a separate folder for easy access.
+KOReader currently doesn’t [(and likely never will)](https://github.com/koreader/koreader/issues/5845#issuecomment-584726676) support the proprietary formats that Amazon converts all ebooks into (KFX, AZW3, and very limited support for MOBI). It is recommended to get all your books as EPUB and store them in a separate folder for easy access.
 
 ### How do I read my Libby books?
 
@@ -115,12 +117,12 @@ You cannot use the Libby service within KOReader. You can get the EPUB file from
 ### What is the difference between the three KOReader launch options?
 
 - `"Start KOReader"`: The designed way to start KOReader.
-- `"Start KOReader (no framework)"`: Temporarily "kills" the Kindle UI to allocate more resources to KOReader.
+- `"Start KOReader (no framework)"`: Temporarily "kills" the Kindle UI to allocate more resources to KOReader. You may see better performance in this mode, but exiting KOReader will take significantly longer.
 - `"Start KOReader (ASAP)"`: Skips a couple of checks and starts KOReader as soon as possible.
 
 ### I can't no longer transfer files through USB while I am on KOReader!
 
-KOReader currently does not support USBMS mode (USB transfer) and will only charge the device, if you want to transfer files you must exit KOReader to do so. 
+KOReader currently does not support USBMS mode (USB transfer) and will only charge the device, if you want to transfer files you must exit KOReader to do so, or use the built in [SSH server](https://github.com/koreader/koreader/wiki/SSH).
 
 ### Do I have to launch KOReader through KUAL?
 
