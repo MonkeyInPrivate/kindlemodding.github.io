@@ -44,7 +44,7 @@ However, deregistering will delete all files within the documents folder, includ
 
 ### Can I un-jailbreak my Kindle?
 
-Yes, re-enable automatic updates first (`Restore` option in `renametobin`) to avoid an update block. Then, perform a factory reset on the device and install the same firmware update (or any higher version).
+Yes, re-enable automatic updates first (`Restore` option in `renametobin`) to avoid an update block. Then, perform a factory reset on the device and [install the same firmware update](../firmware-and-flashing/downloading-updates/) you are on (or any higher version).
 
 ### Will the jailbreak get my Amazon account banned?
 
