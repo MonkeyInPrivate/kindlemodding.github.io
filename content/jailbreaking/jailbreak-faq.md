@@ -10,7 +10,7 @@ weight: 98
 We recommend reading this article before or after jailbreaking your Kindle device and share it with other people.
 
 <p class="important">
-Most of these instructions are subjected to changes due to newer jailbreaks, patches, extensions, firmware versions, etc. <br><code>(Last updated: Apr 09, 2026)</code>
+Most of these instructions are subjected to changes due to newer jailbreaks, patches, extensions, firmware versions, etc. <br><code>(Last updated: Jun 23, 2026)</code>
 </p>
 
 ## General/Account
@@ -47,6 +47,9 @@ However, deregistering will delete all files within the documents folder, includ
 Yes, re-enable automatic updates first (`Restore` option in `renametobin`) to avoid an update block. Then, perform a factory reset on the device and [install the same firmware update](../firmware-and-flashing/downloading-updates/) you are on (or any higher version).
 
 ### Will the jailbreak get my Amazon account banned?
+
+<p class="important">While at least one report of this has surfaced, it seems to be <strong>extremely</strong> rare and there is next to no risk of this happening even if you use your main account.
+<br>Either way, <strong>The Kindle Modding Organization is not responsible for any banned accounts.</strong></p>
 
 Only a few reports of Amazon banning accounts for jailbreaking have surfaced, and even these were due to people making changes to their Amazon account to do so. In order to prevent this, **please refrain from telling support you have modified your device**, and use an alternate Amazon account if you are worried about getting banned.
 
