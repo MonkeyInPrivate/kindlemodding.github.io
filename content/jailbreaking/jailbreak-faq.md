@@ -55,7 +55,7 @@ Only a few reports of Amazon banning accounts for jailbreaking have surfaced, an
 
 ### Will this void the warranty on my Kindle device?
 
-<p class="tip">Amazon could always change their policies, and whenever you mod any device you always run the risk of bricking it with no warrenty.</p>
+<p class="tip">Amazon could always change their policies, and whenever you mod any device you always run the risk of bricking it with no warranty.</p>
 
 Quite possibly (especially if you told Amazon that you modded your Kindle), but some users have reported being able to get their jailbroken Kindle replaced if it was bricked due to an Amazon issue.
 
