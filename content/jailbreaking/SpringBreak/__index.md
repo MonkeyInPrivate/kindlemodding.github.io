@@ -146,6 +146,7 @@ You can read the writeup [here](https://penguins184.xyz/blog/springbreak-jailbre
             <h2>Complete</h2>
             <div class="stepContent">
                 <p>You're done (at this stage, if you don't see scriptlets, you may also want to reboot)! Wait... so why is there a step here?<br>SpringBreak is shipped on a <b>new</b> jailbreak stack (called <code>hdnext</code>). The Hotfix is pre-installed for you! You can commence by downloading KUAL directly.<br><br>...Additionally, you get a new <i>package manager</i> called KPM. To try out the basics on your device, use <code>;kpm update</code> and <code>;kpm install koreader</code>.</p>
+                <p>This new technology also means you do not need to rename OTA binaries, nor re-enable the store. All you need to do is get KUAL.</p>
             </div>
         </div>
     </div>
