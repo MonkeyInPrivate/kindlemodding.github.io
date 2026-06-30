@@ -446,7 +446,6 @@ generationMap = [
             JB("WinterBreak2 < 5.16.4", "/jailbreaking/WinterBreak2"),
             JB("WinterBreak < 5.18.1", "/jailbreaking/WinterBreak"),
             JB("AdBreak 5.18.1+", "/jailbreaking/AdBreak"),
-            JB("SpringBreak 5.18.1.1.1", "/jailbreaking/SpringBreak"),
         ),
     },
     # Kindle Basic 3, released April 10 2019 on FW 5.1x.y
@@ -480,6 +479,7 @@ generationMap = [
             JB("WinterBreak2 < 5.16.4", "/jailbreaking/WinterBreak2"),
             JB("WinterBreak < 5.18.1", "/jailbreaking/WinterBreak"),
             JB("AdBreak 5.18.1", "/jailbreaking/AdBreak"),
+            JB("SpringBreak 5.18.1.1.1", "/jailbreaking/SpringBreak"),
         ),
     },
     # Kindle x Migu, released 2017 on FW 5.7.2.8 (Based on Android 5.1.1?)
