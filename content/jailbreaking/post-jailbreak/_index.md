@@ -2,7 +2,7 @@
 layout: default
 title: Post Jailbreak
 parent: Jailbreaking Your Kindle
-weight: 5
+weight: 7
 ---
 
 # Post Jailbreak
