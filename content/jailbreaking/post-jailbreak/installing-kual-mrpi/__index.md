@@ -30,7 +30,8 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
                 <tbody>
                     <tr>
                         <td>K5 and newer</td>
-                        <td><a href="https://github.com/KindleModding/PEKI/releases/download/v1.0.0-sh/KUAL.sh">KUAL.sh</a></td>
+                        <td>Download PEKI</td>
+                        <td><a href="https://github.com/KindleTweaks/PEKI/releases/latest/download/PEKI.zip">PEKI</a></td>
                     </tr>
                     <tr>
                         <td>K4 and older</td>
@@ -62,7 +63,7 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
         <div class="step">
             <h2>Copying KUAL</h2>
             <div class="stepContent">
-                <p>Copy the <code>KUAL.sh</code> file to your Kindle's <code>documents</code> folder</p>
+                <p>Unzip <code>PEKI.zip</code>, and copy both <code>KUAL.sh</code> and <code>KUAL.jar</code> to the <code>documents</code> folder on the Kindle.</p>
             </div>
         </div>
         <div class="step">
@@ -88,7 +89,7 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
 
 ## Troubleshooting
 
-- The installation or functionality of **KUAL** and **MRPI** may fail if there is not enough free space on your Kindle. If you are using the "[fill storage](../../prevent-auto-update/)" method to block updates, make sure your Kindle has `150 MB` of available space before installing KUAL and MRPI
+- The installation or functionality of **KUAL** and **MRPI** may fail if there is not enough free space on your Kindle. If you are using the "[fill storage](../../prevent-auto-update/)" method to block updates, make sure your Kindle has `220 MB` of available space before installing KUAL and MRPI
 - Verify that all folders and files are in the correct locations on your Kindle.
 - Try restarting the Kindle if the `;log mrpi` command is not responding
 - Ensure that the file does not have any special characters such as brackets in it, some browsers may rename files adding `(1)` or other additional suffixes to the file name and these should be removed before copying to the Kindle
