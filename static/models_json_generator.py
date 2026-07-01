@@ -411,6 +411,7 @@ generationMap = [
             JB("WinterBreak < 5.18.1", "/jailbreaking/WinterBreak"),
             JB("AdBreak 5.18.1 - 5.18.5.0.1", "/jailbreaking/AdBreak"),
             JB("Nosebleed 5.18.6", "/jailbreaking/Nosebleed"),
+            JB("SpringBreak 5.19.2(.0.1)", "/jailbreaking/SpringBreak"),
         ),
     },
     # Kindle PaperWhite 5, released October 27 2021 on FW 5.14.0
@@ -428,6 +429,7 @@ generationMap = [
             JB("WinterBreak < 5.18.1", "/jailbreaking/WinterBreak"),
             JB("AdBreak 5.18.1 - 5.18.5.0.1", "/jailbreaking/AdBreak"),
             JB("Nosebleed 5.18.6", "/jailbreaking/Nosebleed"),
+            JB("SpringBreak 5.19.2(.0.1)", "/jailbreaking/SpringBreak"),
         ),
     },
     # Kindle Oasis 3, released July 24 2019 on FW 5.12.0
@@ -460,6 +462,7 @@ generationMap = [
             JB("WinterBreak2 < 5.16.4", "/jailbreaking/WinterBreak2"),
             JB("WinterBreak < 5.18.1", "/jailbreaking/WinterBreak"),
             JB("AdBreak 5.18.1", "/jailbreaking/AdBreak"),
+            JB("SpringBreak 5.18.1.1.1", "/jailbreaking/SpringBreak"),
         ),
     },
     # Kindle PaperWhite 4, released November 7 2018 on FW 5.10.0.1/5.10.0.2
@@ -476,6 +479,7 @@ generationMap = [
             JB("WinterBreak2 < 5.16.4", "/jailbreaking/WinterBreak2"),
             JB("WinterBreak < 5.18.1", "/jailbreaking/WinterBreak"),
             JB("AdBreak 5.18.1", "/jailbreaking/AdBreak"),
+            JB("SpringBreak 5.18.1.1.1", "/jailbreaking/SpringBreak"),
         ),
     },
     # Kindle x Migu, released 2017 on FW 5.7.2.8 (Based on Android 5.1.1?)
