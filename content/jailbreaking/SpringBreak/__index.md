@@ -5,7 +5,6 @@ title: SpringBreak
 weight: 1
 slug: index
 kofi: https://ko-fi.com/penguins186
-adfree: true
 ---
 
 # SpringBreak
